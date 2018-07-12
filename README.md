@@ -6,4 +6,4 @@ Compared to the usual CLASS code, it containts 4 new parameters (see arXiv:1410.
 
 * Y - charachterizes LV in the dark matter sector
 
-In order to use the code, download the .zip file and add the file bessels.dat into the folder. If you use this code for your research, please cite the papers arXiv:1209.0464 and arXiv:1410.6514.
+If you use this code for your research, please cite the papers arXiv:1209.0464 and arXiv:1410.6514.
